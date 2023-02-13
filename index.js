@@ -1,0 +1,3 @@
+function Descargar(){
+    window.print();
+}
